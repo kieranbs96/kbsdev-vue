@@ -108,6 +108,45 @@
           color: #d4343b;
         }
       }
+
+      &--vue {
+        &:hover {
+          color: #40b883;
+        }
+      }
+
+
+      &--pug {
+        line-height: 0;
+        font-size: 0;
+        min-height: 4rem;
+
+        &:hover {
+          .about__skill-image-w {
+            display:none;
+         }
+
+         .about__skill-image-c {
+           display:block;
+         }
+        }
+      }
+    }
+
+    &-image {
+      height: 4rem;
+
+      &:hover {
+
+
+      }
+      &-c {
+        display:none;
+      }
+
+      &-w {
+        filter: contrast(25%);
+      }
     }
 
     &-text {
