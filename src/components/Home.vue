@@ -1,10 +1,9 @@
-<template>
-  <div>
-    <app-header></app-header>
-    <app-about></app-about>
-    <app-projects></app-projects>
-    <app-footer></app-footer>
-  </div>
+<template lang="pug">
+  div
+    app-header
+    app-about
+    app-projects
+    app-footer
 </template>
 
 <script>

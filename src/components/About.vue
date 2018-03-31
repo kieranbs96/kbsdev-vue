@@ -1,7 +1,4 @@
 <template lang="pug">
-mixin svg-icon(name, size)
-    - var size = size || 24;
-
 div.about
   div.container
     h2.about__heading 👋 My name is Kieran
