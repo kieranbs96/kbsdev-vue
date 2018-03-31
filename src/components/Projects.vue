@@ -10,7 +10,7 @@ div.projects#projects
       div.projects__content
         h3.projects_title Nursing Portfolio
         p.projects__text Georgina is a children's nurse who needed a portfolio to help with her validation renewal. I created the site assimple in Design as possible. The site was developed in GatsbyJS which is a powerful React Static Page Generator, I decided to use a React based website as I am confident in my React ability and it produces powerful and fast web apps, other technologies in the project include SASS &amp; SVG. The blog page is build into Gatsby using the Markdown Source, so all full blog pages are build in Markdown and inline HTML.
-        a(target="_blank" href="//georginacross.co.uk/" class="projects__read-more.btn")
+        a(target="_blank" href="//georginacross.co.uk/" class="projects__read-more btn")
           span See the website &rarr;
 
 
