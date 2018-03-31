@@ -15,12 +15,6 @@ div
           a(target="_blank" href="//twitter.com/kbsdev" class="twitter__link")
             i.fab.fa-twitter
 
-
-        div.footer-area__links--whatsapp
-          a(target="_blank" data-whatsapp="447468523821" class="whatsapp__link ")
-            i.fab.fa-whatsapp
-
-
         div.footer-area__links--linkedin
           a(target="_blank" href="//linkedin.com/in/kieranbs96" class="linkedin-in__link")
             i.fab.fa-linkedin-in

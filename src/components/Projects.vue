@@ -1,4 +1,5 @@
 <template lang="pug">
+
 div.projects#projects
   h2.projects__heading My Work
 
