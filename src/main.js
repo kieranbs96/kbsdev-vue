@@ -4,7 +4,6 @@ import router from './router';
 
 import './assets/scss/style.scss';
 
-
 Vue.config.productionTip = true;
 
 /* eslint-disable no-new */
